@@ -1,1 +1,3 @@
 # Fu-man-chú
+
+# Es una variante del piedra, papel o tijera. Se denomina fu man chú y consiste en un juego de manos grupal para ir disminuyendo el número de contrincantes. Los jugadores deben, tras decir al unísono «¡Fu, man, chú!», mostrar la mano con la palma hacia arriba o hacia abajo y son eliminados quienes por proporción hayan sacado el mismo resultado en menor cantidad. Se juega hasta que solo queden dos personas que finalmente realizan el duelo final a yan ken po.

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Fu-man-chu/1.0.0": {
+        "runtime": {
+          "Fu-man-chu.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Fu-man-chu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

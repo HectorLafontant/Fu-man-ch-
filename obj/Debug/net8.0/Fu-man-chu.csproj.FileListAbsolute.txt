@@ -1,0 +1,15 @@
+C:\Users\Héctor Daniel\Documents\FuManChu\Fu-man-chu\bin\Debug\net8.0\Fu-man-chu.exe
+C:\Users\Héctor Daniel\Documents\FuManChu\Fu-man-chu\bin\Debug\net8.0\Fu-man-chu.deps.json
+C:\Users\Héctor Daniel\Documents\FuManChu\Fu-man-chu\bin\Debug\net8.0\Fu-man-chu.runtimeconfig.json
+C:\Users\Héctor Daniel\Documents\FuManChu\Fu-man-chu\bin\Debug\net8.0\Fu-man-chu.dll
+C:\Users\Héctor Daniel\Documents\FuManChu\Fu-man-chu\bin\Debug\net8.0\Fu-man-chu.pdb
+C:\Users\Héctor Daniel\Documents\FuManChu\Fu-man-chu\obj\Debug\net8.0\Fu-man-chu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Héctor Daniel\Documents\FuManChu\Fu-man-chu\obj\Debug\net8.0\Fu-man-chu.AssemblyInfoInputs.cache
+C:\Users\Héctor Daniel\Documents\FuManChu\Fu-man-chu\obj\Debug\net8.0\Fu-man-chu.AssemblyInfo.cs
+C:\Users\Héctor Daniel\Documents\FuManChu\Fu-man-chu\obj\Debug\net8.0\Fu-man-chu.csproj.CoreCompileInputs.cache
+C:\Users\Héctor Daniel\Documents\FuManChu\Fu-man-chu\obj\Debug\net8.0\Fu-man-chu.sourcelink.json
+C:\Users\Héctor Daniel\Documents\FuManChu\Fu-man-chu\obj\Debug\net8.0\Fu-man-chu.dll
+C:\Users\Héctor Daniel\Documents\FuManChu\Fu-man-chu\obj\Debug\net8.0\refint\Fu-man-chu.dll
+C:\Users\Héctor Daniel\Documents\FuManChu\Fu-man-chu\obj\Debug\net8.0\Fu-man-chu.pdb
+C:\Users\Héctor Daniel\Documents\FuManChu\Fu-man-chu\obj\Debug\net8.0\Fu-man-chu.genruntimeconfig.cache
+C:\Users\Héctor Daniel\Documents\FuManChu\Fu-man-chu\obj\Debug\net8.0\ref\Fu-man-chu.dll
